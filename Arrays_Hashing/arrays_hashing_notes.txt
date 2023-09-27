@@ -1,0 +1,14 @@
+contains duplicate:
+- you can use a hashset to check if there are duplicate values within a date set
+- hashsets can only contain unique values, so there will never be duplicates
+
+valid anagram, two sum, group anagrams:
+- you can use hashmaps to organize data into key-value pairs
+- hashmaps DO contain duplicates, so some values will be the same
+- the "enumerate" keyword can be used to iterate thru a list while keeping
+  track of the position in the list
+        # syntax: for index, item in enumerate(array)
+- 
+
+
+
